@@ -3,6 +3,7 @@
   
   
 ##### Less Player 开发预览版（当前最新）  
-[![GitHub release](https://img.shields.io/github/tag/GeekLee2012/Resources)](https://github.com/GeekLee2012/Resources/releases)
+[![GitHub release](https://img.shields.io/github/tag/GeekLee2012/Resources)](https://github.com/GeekLee2012/Resources/releases)  
+PS：可点击上面图标直达下载页  
 
 ##### 其他（暂无） 
